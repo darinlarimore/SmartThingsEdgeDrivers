@@ -610,7 +610,7 @@ zwaveManufacturer:
     manufacturerId: 0x001D
     productId: 0x0001
     productType: 0x3201
-    deviceProfileName: switch-level
+    deviceProfileName: leviton-dimmer
   - id: 001D/1B03/0334
     deviceLabel: Leviton Dimmer Switch
     manufacturerId: 0x001D
